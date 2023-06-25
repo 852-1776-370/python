@@ -1,4 +1,2 @@
 # python
-some basic python
-tkinter 
-turtle
+ python
